@@ -8,3 +8,6 @@ Through creating our summary DataFrame for PyBer, we found the number of total r
 <img width="249" alt="week_fares_dataframe" src="https://user-images.githubusercontent.com/103657822/170894905-97b95aed-58c3-41f8-93f5-41075c4e19ff.png">
 <img width="793" alt="PyBer_fare_summary_linechart" src="https://user-images.githubusercontent.com/103657822/170894909-0e6802d3-7ca6-46b4-9a71-a0c16734a6d1.png">
 To create our line graph, we made a weekly fare summary for PyBer (a snippet of the DataFrame is displayed above). As you can see, urban and suburban cities are pretty constant in the weekly fares proabably due to population size and a constant flow of tourists and events within the city. Come mid February, however, there is more growth within the weekly fares for urban and suburban cities. As for rural cities, there are continual ebb and flows. The ebbs and flows of all of these lines are probably caused by weekends, events, or tourists. 
+
+## Summary
+One disparity that I observed in the data is that there is a surplus of drivers for urban cities. I would reccommend to decrease the total number of drivers. By decreasing the number of drivers, the current drivers would be able to make more money. Another reccommendation that I have 
